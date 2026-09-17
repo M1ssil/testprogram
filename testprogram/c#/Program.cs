@@ -28,3 +28,4 @@ else if (operatorTegn == '/'){
 
 Console.WriteLine("Resultatet er: " + resultat);
 */
+
